@@ -65,7 +65,7 @@
 }
 
 .container-img:hover img {
-    transition: 1s;
+    transition: 1s ease;
     filter: blur(2px);
 }
 
